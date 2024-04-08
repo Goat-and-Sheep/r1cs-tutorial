@@ -3,7 +3,7 @@
 In this example, our goal is to familiarize ourselves with the workflow of
 writing constraints in `arkworks`. We do this by writing a simple constraint system
  that just verifies a single Merkle tree authentication path, using the APIs in
-https://github.com/arkworks-rs/crypto-primitives/tree/main/src/merkle_tree.
+https://github.com/arkworks-rs/crypto-primitives/tree/main/crypto-primitives/src/merkle_tree.
 
 We will learn how to:
 
